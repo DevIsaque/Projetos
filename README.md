@@ -2,7 +2,7 @@
 <html>
     <body
 #biografia
- <title><h2>Biografia</h2><br></title>
+ <h2>Biografia</h2><br>
  Olá meu nome é <strong>Isaque</strong>, tenho <strong>18 anos</strong>, nasci em <strong>14 de Julho de 2006</strong>.<br>
  Minha cidade natal é <strong>Itapetininga</strong>, no estado de <strong>São Paulo</strong>(<em>SP</em>).</p>
  <p>Atualmente estou cursando <strong>Ciências da Computação</strong>, na <strong>Unip</strong>.</p>

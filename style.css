@@ -1,0 +1,51 @@
+
+#tittle{
+    color:black;
+    font-style: italic;
+    font-family: 'Stencil Std', fantasy;
+    font-size: 32px;
+    line-height: 0.5;
+    text-decoration: underline;
+    text-align: center; /* Adicionando esta linha */
+}
+
+#subtittle{
+    color: black;
+    font-style: italic;
+    font-family: 'Stencil Std', fantasy;
+    line-height: 0.5;
+    text-decoration: underline;
+    word-spacing: 3px;
+    text-align: center; /* Adicionando esta linha */
+}
+
+.text{
+    color:black;
+    font-style: normal;
+    font-family: 'impact', fantasy;
+    line-height: 1.5;
+    text-decoration: none;
+    text-align: center; /* Adicionando esta linha */
+}
+#mybutton{color:black;
+    background-color:slategray ;
+    font-style: normal;
+    font-family: 'impact', fantasy;
+    line-height: 1.5;
+    text-decoration: none;
+    text-align: center; /* Adicionando esta linha */
+}
+button{color:black;
+    background-color:slategray ;
+}
+.social{
+    letter-spacing: 0.5px;
+}
+.fim{
+    letter-spacing: 0.5px;
+    font-style: normal;
+    font-family: 'impact', fantasy;
+    text-align: center; /* Adicionando esta linha */
+}
+body{background-color: slategray;
+}
