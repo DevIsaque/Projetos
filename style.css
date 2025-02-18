@@ -7,7 +7,7 @@
     text-decoration: underline;
     text-align: center;
     /* Adicionando esta linha */
-    margin-top: 150px; /* Ajuste conforme necessário */
+    margin-top: 190px; /* Ajuste conforme necessário */
 }
 
 #tittle1{
@@ -19,8 +19,20 @@
     text-decoration: underline;
     text-align: center;
     /* Adicionando esta linha */
-    margin-top: 575px; /* Ajuste conforme necessário */
+    margin-top: 375px; /* Ajuste conforme necessário */
+}
 
+#tittle2{
+    color: white;
+    font-style: italic;
+    font-family: 'Stencil Std', fantasy;
+    font-size: 100px;
+    line-height: 0.5;
+    text-decoration: underline;
+    text-align: center;
+    /* Adicionando esta linha */
+    margin-top: -100px; /* Ajuste conforme necessário */
+    margin-bottom: 140px;
 }
 
 #subtittle {
@@ -44,8 +56,21 @@
     text-decoration: none;
     text-align: center;
     /* Adicionando esta linha */
+    margin-bottom: 575px;
+    margin-top: 50px;
 }
-
+.email{
+    color: white;
+    font-style: normal;
+    font-family: 'impact', fantasy;
+    font-size: 32px;
+    line-height: 1.5;
+    text-decoration: none;
+    text-align: center;
+    /* Adicionando esta linha */
+    margin-bottom: -20px;
+    margin-top: -55px;
+}
 .mybutton {
         display: flex;
         justify-content: center;
@@ -56,6 +81,8 @@
         padding: 10px 20px;
         width: fit-content; /* Ajusta ao tamanho do conteúdo */
         margin: 10px auto; /* Centraliza horizontalmente */
+        margin-top: -150; /* Ajuste o valor conforme necessário */
+        margin-bottom: 10px
     ;
     
 }
@@ -81,9 +108,11 @@ img{
     text-align: center;
     /* Adicionando esta linha */
     color: white;
+    margin-bottom: 475px;
+    margin-top: 300px;
 }
 html, body {
-    height: 200vh; /* Faz a página ter 2 vezes a altura da tela */
+    height: 300vh; /* Faz a página ter 2 vezes a altura da tela */
 }
 
 body {
