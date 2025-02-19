@@ -88,7 +88,7 @@
 }
 
 .button { 
-        color: slategray;
+        color: black;
         font-family: 'Impact', fantasy;
         text-decoration: none;
     }
@@ -116,5 +116,20 @@ html, body {
 }
 
 body {
-    background-color: slategray;
+    background-color: black;
+    background-image: url('c:/Users/isaqu/OneDrive/Documentos/Lightshot/Screenshot_41.png');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
 }
+
+body {
+    background-color: black;
+    background-image: url('c:/Users/isaqu/Downloads/Design_sem_nome__1_-removebg-preview.png'), 
+    url('c:/Users/isaqu/OneDrive/Documentos/Lightshot/Screenshot_43.png');
+    background-position: left 20px top 450px, right 10px top 1000px;
+    background-size: 25% auto, 30% auto;
+    background-repeat: no-repeat, no-repeat;
+}
+
+
